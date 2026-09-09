@@ -1,0 +1,23 @@
+wordfreq/__main__.py
+  s_9c35e6d6a90396::t_1f55624b2937fe 3
+  s_9c35e6d6a90396::t_57e6c798ece624 12
+  s_9c35e6d6a90396::t_661d77e72c1da0 29-36
+tests/test_wordfreq.py
+  s_9c35e6d6a90396::t_88d7265adf6866 1-99
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "af98b0c91751f583df465c8a62c2fa76c1a5c13e",
+  "prompts": {},
+  "sessions": {
+    "s_9c35e6d6a90396": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3d907880-2f76-4f9b-8b85-11ed4d987303",
+        "model": "claude-haiku-4-5-20251001"
+      },
+      "human_author": "hariharasudhan-quest <harihara.sudhan@quest1.io>"
+    }
+  }
+}
