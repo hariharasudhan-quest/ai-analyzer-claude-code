@@ -1,0 +1,1 @@
+Implement a Python CLI called wordfreq (runnable as python3 -m wordfreq) that reads text from stdin, tokenizes into lowercase words stripping punctuation, and prints the top N most frequent words as word: count. Default N is 10, overridable with --top N
