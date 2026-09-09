@@ -1,0 +1,1 @@
+Add a --min-length flag (default 1) that excludes words shorter than the given length

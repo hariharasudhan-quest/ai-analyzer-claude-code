@@ -1,0 +1,50 @@
+{
+  "cli_version": "0.10.6",
+  "checkpoint_id": "01M22K6EY8W6H68M1DSCTA46FA",
+  "session_id": "3d907880-2f76-4f9b-8b85-11ed4d987303",
+  "strategy": "manual-commit",
+  "created_at": "2026-09-09T08:05:26.220443Z",
+  "branch": "master",
+  "checkpoints_count": 1,
+  "save_step_count": 1,
+  "files_touched": [
+    "wordfreq/__main__.py"
+  ],
+  "agent": "Claude Code",
+  "model": "claude-haiku-4-5-20251001",
+  "turn_id": "b4ec330334b7",
+  "checkpoint_transcript_start": 50,
+  "transcript_lines_at_start": 50,
+  "compact_transcript_start": 8,
+  "token_usage": {
+    "input_tokens": 58,
+    "cache_creation_tokens": 2514,
+    "cache_read_tokens": 245913,
+    "output_tokens": 1358,
+    "api_call_count": 7
+  },
+  "session_metrics": {
+    "turn_count": 2
+  },
+  "initial_attribution": {
+    "calculated_at": "2026-09-09T08:05:26.205805Z",
+    "agent_lines": 2,
+    "agent_removed": 1,
+    "human_added": 0,
+    "human_modified": 0,
+    "human_removed": 0,
+    "total_committed": 2,
+    "total_lines_changed": 3,
+    "agent_percentage": 100,
+    "metric_version": 2
+  },
+  "prompt_attributions": [
+    {
+      "checkpoint_number": 1,
+      "user_lines_added": 0,
+      "user_lines_removed": 0,
+      "agent_lines_added": 0,
+      "agent_lines_removed": 0
+    }
+  ]
+}
