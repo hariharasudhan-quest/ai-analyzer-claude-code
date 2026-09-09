@@ -1,0 +1,20 @@
+.claude/settings.json
+  h_0a6574c65f7ff8 1-90
+.entire/.gitignore
+  h_0a6574c65f7ff8 1-5
+.entire/settings.json
+  h_0a6574c65f7ff8 1-9
+Readme.md
+  h_0a6574c65f7ff8 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "030d28b45882a9fab211b9a2d5cb0b7b2ff3849a",
+  "prompts": {},
+  "humans": {
+    "h_0a6574c65f7ff8": {
+      "author": "hariharasudhan-quest <harihara.sudhan@quest1.io>"
+    }
+  }
+}
