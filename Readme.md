@@ -1,0 +1,1 @@
+Build a Python CLI tool named `wordfreq` that reads text from stdin, tokenizes it into lowercase words (letters and digits only, punctuation stripped), and prints the most frequent words as `word: count`, one per line, sorted by count descending then alphabetically for ties. No third-party dependencies.
