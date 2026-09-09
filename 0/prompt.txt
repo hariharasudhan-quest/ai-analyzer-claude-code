@@ -1,0 +1,9 @@
+Add a --min-length flag (default 1) that excludes words shorter than the given length
+
+---
+
+Handle the edge case where stdin is empty: the program should print nothing and exit with status 0
+
+---
+
+Add a --json flag to wordfreq that outputs the results as a JSON object ({"word": count, ...}) instead of the default word: count lines, preserving the same sort order as key order. Add a test covering the JSON output

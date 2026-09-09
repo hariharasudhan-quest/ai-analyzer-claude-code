@@ -1,0 +1,58 @@
+{
+  "cli_version": "0.10.6",
+  "checkpoint_id": "01M22KE1PT0E0BYTK01CJY7KT6",
+  "session_id": "3d907880-2f76-4f9b-8b85-11ed4d987303",
+  "strategy": "manual-commit",
+  "created_at": "2026-09-09T08:09:34.12083Z",
+  "branch": "master",
+  "checkpoints_count": 2,
+  "save_step_count": 3,
+  "files_touched": [
+    "tests/__pycache__/test_wordfreq.cpython-312-pytest-9.1.1.pyc",
+    "tests/test_wordfreq.py",
+    "wordfreq/__main__.py",
+    "wordfreq/__pycache__/__main__.cpython-312.pyc"
+  ],
+  "agent": "Claude Code",
+  "model": "claude-haiku-4-5-20251001",
+  "turn_id": "ebe73c55d630",
+  "compact_transcript_start": 0,
+  "token_usage": {
+    "input_tokens": 232,
+    "cache_creation_tokens": 18113,
+    "cache_read_tokens": 1006665,
+    "output_tokens": 6924,
+    "api_call_count": 28
+  },
+  "session_metrics": {
+    "turn_count": 4
+  },
+  "initial_attribution": {
+    "calculated_at": "2026-09-09T08:09:34.105277Z",
+    "agent_lines": 109,
+    "agent_removed": 2,
+    "human_added": 0,
+    "human_modified": 0,
+    "human_removed": 0,
+    "total_committed": 109,
+    "total_lines_changed": 111,
+    "agent_percentage": 100,
+    "metric_version": 2
+  },
+  "prompt_attributions": [
+    {
+      "checkpoint_number": 2,
+      "user_lines_added": 0,
+      "user_lines_removed": 0,
+      "agent_lines_added": 0,
+      "agent_lines_removed": 0
+    },
+    {
+      "checkpoint_number": 3,
+      "user_lines_added": 0,
+      "user_lines_removed": 0,
+      "agent_lines_added": 0,
+      "agent_lines_removed": 0
+    }
+  ]
+}
