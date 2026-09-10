@@ -1,0 +1,26 @@
+claude_01M22JN2JE2MTWE0H6Q03BYJGZ.jsonl
+  h_0a6574c65f7ff8 1-50
+claude_01M22K6EY8W6H68M1DSCTA46FA.jsonl
+  h_0a6574c65f7ff8 1-89
+claude_01M22KE1PT0E0BYTK01CJY7KT6.jsonl
+  h_0a6574c65f7ff8 1-164
+claude_entire_01M22JN2JE2MTWE0H6Q03BYJGZ.jsonl
+  h_0a6574c65f7ff8 1-8
+claude_entire_01M22K6EY8W6H68M1DSCTA46FA.jsonl
+  h_0a6574c65f7ff8 1-16
+claude_entire_01M22KE1PT0E0BYTK01CJY7KT6.jsonl
+  h_0a6574c65f7ff8 1-32
+claude_session.jsonl
+  h_0a6574c65f7ff8 1-164
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "d64e4db753ea4e82e13e0dc37cc66b01f6977d1d",
+  "prompts": {},
+  "humans": {
+    "h_0a6574c65f7ff8": {
+      "author": "hariharasudhan-quest <harihara.sudhan@quest1.io>"
+    }
+  }
+}
